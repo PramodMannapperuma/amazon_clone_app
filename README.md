@@ -1,1 +1,2 @@
-"# amazon_clone_app" 
+A cloned auth of the amazon application
+
